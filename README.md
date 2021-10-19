@@ -1,1 +1,1 @@
-go to my webpage[bzchun.github.io]
+Go to my [webpage](bzchun.github.io)
